@@ -10,4 +10,4 @@
 **Concepts**: Data Structures & Algorithms, OOP, Machine Learning, Deep Learning, Metaheuristic Optimization
 
 ### Contact me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poorvatehlan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poorva.tehlan.ug24@nsut.ac.in) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poorvatehlan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poorvatehlan@gmail.com) [![college email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poorva.tehlan.ug24@nsut.ac.in)
